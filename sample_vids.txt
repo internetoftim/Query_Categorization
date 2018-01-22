@@ -1,0 +1,5 @@
+HOSTNAME	URI	VIDID
+youtubeonrepeat.com	/watch/ v 0XV3JQBX9sM	0XV3JQBX9sM
+m.youtube.com	/watch v EDLwppTAdW8	EDLwppTAdW8
+ssyoutube.com	/watch v mgLBmLoL2Aw	mgLBmLoL2Aw
+m.youtube.com	/watch v C6l_Ogflkuk	C6l_Ogflkuk
